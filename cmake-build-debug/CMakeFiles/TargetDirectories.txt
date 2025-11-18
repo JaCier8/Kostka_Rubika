@@ -1,0 +1,3 @@
+/home/jappa/CLionProjects/Kostka/cmake-build-debug/CMakeFiles/Kostka.dir
+/home/jappa/CLionProjects/Kostka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jappa/CLionProjects/Kostka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
